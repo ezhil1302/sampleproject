@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.nav-link {
+   font-family: sans-serif;
+   font-size: 1rem;
+}
+.nav-link :hover {
+  text-decoration: underline;
+}
+

@@ -1,0 +1,19 @@
+.form-container{
+   text-align: center;
+   background: linear-gradient(
+    135deg,
+    #8052ec,
+    #d161ff
+
+   );
+   min-height: 100vh;
+   margin-top: -10px;
+   margin-bottom: -10px;
+}
+h1 {
+   color: #fff;
+   margin-top: 10px;
+}
+.form-container {
+   min-height: 100vh;
+}
